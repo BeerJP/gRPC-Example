@@ -1,4 +1,4 @@
-# gRPC-Golang
+# gRPC-Example
 <br/>
 <br/>
 <br/>
