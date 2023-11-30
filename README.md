@@ -8,7 +8,7 @@ https://github.com/protocolbuffers/protobuf/releases <br/>
 -- Set path to env <br/>
 -- Command Prompt <br/>
 protoc --version <br/>
--- Terminal FiX <br/>
+-- Terminal Fix <br/>
 $env:Path += ";{PATH}" <br/>
 <br/>
 // Generate Code <br/>
