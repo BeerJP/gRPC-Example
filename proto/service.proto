@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package service;
+
+option go_package = "/proto";
+
+service Service {
+    rpc MyFunction(Request) returns (Response) {}
+}
+
+message Request {
+    string name = 1;
+}
+
+message Response {
+    string result = 1;
+}
