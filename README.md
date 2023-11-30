@@ -2,6 +2,9 @@
 <br/>
 <br/>
 <br/>
+// Install package <br/>
+go get -u google.golang.org/grpc <br/>
+go get -u github.com/golang/protobuf/protoc-gen-go <br/>
 // Protocol Buffers Compiler <br/>
 -- Download <br/>
 https://github.com/protocolbuffers/protobuf/releases <br/>
